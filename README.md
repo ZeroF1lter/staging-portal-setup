@@ -1,6 +1,6 @@
 # 🧠 Red Team Staging Portal Setup
 
-A lightweight, stealthy Flask-based staging portal designed for red team engagements and payload delivery. This portal supports upload, expiring download links, file obfuscation, logging, and more.
+A lightweight, "stealthy" Flask-based staging portal designed for red team engagements and payload delivery. This portal supports upload, expiring download links, file obfuscation, logging, and more.
 
 ## 🚀 Features
 - 🔐 Login-protected portal
