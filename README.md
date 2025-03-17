@@ -68,4 +68,4 @@ Visit the portal and click **Export Logs (CSV)** to download IP + timestamp + fi
 
 ---
 
-Crafted with 🔥 by `ZeroF1lter`
+Crafted with haste by `ZeroF1lter`
