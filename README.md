@@ -13,7 +13,9 @@ A lightweight, "stealthy" Flask-based staging portal designed for red team engag
 - ⚙️ Easy deployment with one-liner installer
 - 🔥 Optional systemd service auto-start
 
-  ⚠ Note for Windows Users: If cloning this repo on Windows, line endings may break Linux scripts. Run "dos2unix install.sh" inside WSL before executing.
+ 
+ ⚠ Note for Windows Users: If cloning this repo on Windows, line endings may break Linux scripts. Run "dos2unix install.sh" inside WSL before executing.
+
 
 ## 📦 Installation (Manual)
 ```bash
