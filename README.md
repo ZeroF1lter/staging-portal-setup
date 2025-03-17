@@ -23,7 +23,7 @@ source venv/bin/activate
 python3 staging_portal.py
 ```
 
-## 🔥 One-liner Deploy (After hosting code in GitHub):
+## 🔥 One-liner Deploy:
 ```bash
 curl -sSL https://raw.githubusercontent.com/zerof1lter/staging-portal-setup/main/install.sh | bash
 ```
